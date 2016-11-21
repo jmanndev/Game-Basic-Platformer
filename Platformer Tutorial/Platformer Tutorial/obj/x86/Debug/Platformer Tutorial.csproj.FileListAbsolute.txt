@@ -1,0 +1,40 @@
+F:\Platformer Tutorial\Platformer Tutorial\Platformer Tutorial\bin\x86\Debug\Content\jumper.xnb
+F:\Platformer Tutorial\Platformer Tutorial\Platformer Tutorial\bin\x86\Debug\Content\tile.xnb
+F:\Platformer Tutorial\Platformer Tutorial\Platformer Tutorial\bin\x86\Debug\Platformer Tutorial.exe
+F:\Platformer Tutorial\Platformer Tutorial\Platformer Tutorial\bin\x86\Debug\Platformer Tutorial.pdb
+F:\Platformer Tutorial\Platformer Tutorial\Platformer Tutorial\obj\x86\Debug\Platformer Tutorial.csprojResolveAssemblyReference.cache
+F:\Platformer Tutorial\Platformer Tutorial\Platformer Tutorial\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Platformer Tutorial\Platformer Tutorial\Platformer Tutorial\obj\x86\Debug\Platformer Tutorial.exe
+F:\Platformer Tutorial\Platformer Tutorial\Platformer Tutorial\obj\x86\Debug\Platformer Tutorial.pdb
+F:\Platformer Tutorial\Platformer Tutorial\Platformer Tutorial\bin\x86\Debug\Content\debugFont.xnb
+F:\Platformer Tutorial\Platformer Tutorial\Platformer Tutorial\bin\x86\Debug\Content\bullet.xnb
+G:\Platformer Tutorial\Platformer Tutorial\Platformer Tutorial\bin\x86\Debug\Content\jumper.xnb
+G:\Platformer Tutorial\Platformer Tutorial\Platformer Tutorial\bin\x86\Debug\Content\tile.xnb
+G:\Platformer Tutorial\Platformer Tutorial\Platformer Tutorial\bin\x86\Debug\Content\bullet.xnb
+G:\Platformer Tutorial\Platformer Tutorial\Platformer Tutorial\bin\x86\Debug\Content\debugFont.xnb
+G:\Platformer Tutorial\Platformer Tutorial\Platformer Tutorial\bin\x86\Debug\Platformer Tutorial.exe
+G:\Platformer Tutorial\Platformer Tutorial\Platformer Tutorial\bin\x86\Debug\Platformer Tutorial.pdb
+G:\Platformer Tutorial\Platformer Tutorial\Platformer Tutorial\obj\x86\Debug\Platformer Tutorial.csprojResolveAssemblyReference.cache
+G:\Platformer Tutorial\Platformer Tutorial\Platformer Tutorial\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Platformer Tutorial\Platformer Tutorial\Platformer Tutorial\obj\x86\Debug\Platformer Tutorial.exe
+G:\Platformer Tutorial\Platformer Tutorial\Platformer Tutorial\obj\x86\Debug\Platformer Tutorial.pdb
+D:\Users\Jono\Documents\- My Documents\Coding\AIE\Platformer Tutorial\Platformer Tutorial\Platformer Tutorial\bin\x86\Debug\Content\jumper.xnb
+D:\Users\Jono\Documents\- My Documents\Coding\AIE\Platformer Tutorial\Platformer Tutorial\Platformer Tutorial\bin\x86\Debug\Content\tile.xnb
+D:\Users\Jono\Documents\- My Documents\Coding\AIE\Platformer Tutorial\Platformer Tutorial\Platformer Tutorial\bin\x86\Debug\Content\bullet.xnb
+D:\Users\Jono\Documents\- My Documents\Coding\AIE\Platformer Tutorial\Platformer Tutorial\Platformer Tutorial\bin\x86\Debug\Content\debugFont.xnb
+D:\Users\Jono\Documents\- My Documents\Coding\AIE\Platformer Tutorial\Platformer Tutorial\Platformer Tutorial\bin\x86\Debug\Platformer Tutorial.exe
+D:\Users\Jono\Documents\- My Documents\Coding\AIE\Platformer Tutorial\Platformer Tutorial\Platformer Tutorial\bin\x86\Debug\Platformer Tutorial.pdb
+D:\Users\Jono\Documents\- My Documents\Coding\AIE\Platformer Tutorial\Platformer Tutorial\Platformer Tutorial\obj\x86\Debug\Platformer Tutorial.csprojResolveAssemblyReference.cache
+D:\Users\Jono\Documents\- My Documents\Coding\AIE\Platformer Tutorial\Platformer Tutorial\Platformer Tutorial\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Users\Jono\Documents\- My Documents\Coding\AIE\Platformer Tutorial\Platformer Tutorial\Platformer Tutorial\obj\x86\Debug\Platformer Tutorial.exe
+D:\Users\Jono\Documents\- My Documents\Coding\AIE\Platformer Tutorial\Platformer Tutorial\Platformer Tutorial\obj\x86\Debug\Platformer Tutorial.pdb
+D:\Users\Jono\Documents\GitHub\Game-Basic-Platformer\Platformer Tutorial\Platformer Tutorial\bin\x86\Debug\Content\jumper.xnb
+D:\Users\Jono\Documents\GitHub\Game-Basic-Platformer\Platformer Tutorial\Platformer Tutorial\bin\x86\Debug\Content\tile.xnb
+D:\Users\Jono\Documents\GitHub\Game-Basic-Platformer\Platformer Tutorial\Platformer Tutorial\bin\x86\Debug\Content\bullet.xnb
+D:\Users\Jono\Documents\GitHub\Game-Basic-Platformer\Platformer Tutorial\Platformer Tutorial\bin\x86\Debug\Content\debugFont.xnb
+D:\Users\Jono\Documents\GitHub\Game-Basic-Platformer\Platformer Tutorial\Platformer Tutorial\bin\x86\Debug\Platformer Tutorial.exe
+D:\Users\Jono\Documents\GitHub\Game-Basic-Platformer\Platformer Tutorial\Platformer Tutorial\bin\x86\Debug\Platformer Tutorial.pdb
+D:\Users\Jono\Documents\GitHub\Game-Basic-Platformer\Platformer Tutorial\Platformer Tutorial\obj\x86\Debug\Platformer Tutorial.csprojResolveAssemblyReference.cache
+D:\Users\Jono\Documents\GitHub\Game-Basic-Platformer\Platformer Tutorial\Platformer Tutorial\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Users\Jono\Documents\GitHub\Game-Basic-Platformer\Platformer Tutorial\Platformer Tutorial\obj\x86\Debug\Platformer Tutorial.exe
+D:\Users\Jono\Documents\GitHub\Game-Basic-Platformer\Platformer Tutorial\Platformer Tutorial\obj\x86\Debug\Platformer Tutorial.pdb

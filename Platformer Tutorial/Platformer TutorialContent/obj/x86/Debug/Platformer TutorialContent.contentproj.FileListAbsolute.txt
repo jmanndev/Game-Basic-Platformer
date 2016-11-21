@@ -1,0 +1,4 @@
+F:\Platformer Tutorial\Platformer Tutorial\Platformer TutorialContent\obj\x86\Debug\Platformer TutorialContent.contentprojResolveAssemblyReference.cache
+G:\Platformer Tutorial\Platformer Tutorial\Platformer TutorialContent\obj\x86\Debug\Platformer TutorialContent.contentprojResolveAssemblyReference.cache
+D:\Users\Jono\Documents\- My Documents\Coding\AIE\Platformer Tutorial\Platformer Tutorial\Platformer TutorialContent\obj\x86\Debug\Platformer TutorialContent.contentprojResolveAssemblyReference.cache
+D:\Users\Jono\Documents\GitHub\Game-Basic-Platformer\Platformer Tutorial\Platformer TutorialContent\obj\x86\Debug\Platformer TutorialContent.contentprojResolveAssemblyReference.cache
