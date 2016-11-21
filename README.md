@@ -1,5 +1,5 @@
 # Game-Basic-Platformer
-Platformer I created to understand movement and map generation
+Objectiveless platformer I created to understand movement and map generation
 
 Map is randomly generated.
 
